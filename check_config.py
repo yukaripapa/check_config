@@ -42,7 +42,8 @@ flags = [
     "dcpodp", # FUJITSU-13
     "mte", #  FUJITSU-15
     "bti", # FUJITSU-16
-    "bf16" # FUJITSU-19
+    "bf16", # FUJITSU-19
+    "i8mm" # FUJITSU-20    
     ]
 
 
